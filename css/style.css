@@ -10,6 +10,10 @@ font-family: 'Signika Negative', sans-serif;
 color: #2c2c54;
 }
 
+h2 {
+    color: red;
+}
+
 nav ul li {
     display: inline-block;
     border: 1px solid pink;
